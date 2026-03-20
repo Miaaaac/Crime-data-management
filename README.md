@@ -6,10 +6,15 @@ This project implements a relational database schema for managing judicial, law 
 It models entities such as persons, cases, courts, police departments, investigations, and regional statistics.
 
 ## Repository structure
+
 ├── code_implementation/ # SQL schema and queries
+
 ├── datasets/ # Input datasets (if any)
+
 ├── report/ # Project report (PDF/Doc)
+
 ├── presentation/ # Slides
+
 └── README.md
 
 The schema includes the following main components:
