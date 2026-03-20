@@ -7,15 +7,14 @@ It models entities such as persons, cases, courts, police departments, investiga
 
 ## Repository structure
 
-├── code_implementation/ # SQL schema and queries
-
-├── datasets/ # Input datasets (if any)
-
-├── report/ # Project report (PDF/Doc)
-
-├── presentation/ # Slides
-
-└── README.md
+```
+Crime-data-management/
+├─ README.md
+├─ code_implementation
+├─ datasets
+├─ report
+├─ presentation
+```
 
 The schema includes the following main components:
 
