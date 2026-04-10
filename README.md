@@ -21,7 +21,6 @@ Crime-data-management/
 ├── 105_1_regression_data_en.csv  # Case-level dataset (Zhuchkova & Kazun, 2023)
 ├── Registru.xlsx                 # Regional statistics dataset (2012–2019)
 │
-├── 2025_dmdb_project_proposal.pdf
 ├── Group_B_DbDM_Project_Proposal.pdf
 ├── Group_B_DbDM_Project_Presentation.pptx
 └── README.md
