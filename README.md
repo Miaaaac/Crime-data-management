@@ -16,6 +16,7 @@ It models entities such as persons, cases, courts, police departments, investiga
 Crime-data-management/
 │
 ├── crime_database.sql            # Full schema: CREATE TABLE, constraints, indexes
+├── queries.sql                   # Queries: selected only 3 examples of queries
 ├── populate_db_final.ipynb       # Python pipeline: data loading, mapping, population
 │
 ├── 105_1_regression_data_en.csv  # Case-level dataset (Zhuchkova & Kazun, 2023)
