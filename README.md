@@ -8,8 +8,11 @@ Existing research on crime in Russia relies on data that is dispersed across jud
 This project implements a relational database schema for managing judicial, law enforcement, and socio-economic data.  
 It models entities such as persons, cases, courts, police departments, investigations, and regional statistics.
 
+---
+---
 ## Repository structure
-
+ 
+```
 Crime-data-management/
 │
 ├── crime_database.sql            # Full schema: CREATE TABLE, constraints, indexes
@@ -22,7 +25,9 @@ Crime-data-management/
 ├── Group_B_DbDM_Project_Proposal.pdf
 ├── Group_B_DbDM_Project_Presentation.pptx
 └── README.md
-
+```
+---
+---
 ## Data sources
 
 ### Case-level dataset (105_1_regression_data_en.csv)
